@@ -1,1 +1,1 @@
-<?php header( 'Location: /Codeplayer.html' ) ; ?>
+<?php header( 'Location: /CodePlayer.html' ) ; ?>
